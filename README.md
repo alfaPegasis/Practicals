@@ -1,0 +1,2 @@
+# Practicals
+### A star Algorithm:
